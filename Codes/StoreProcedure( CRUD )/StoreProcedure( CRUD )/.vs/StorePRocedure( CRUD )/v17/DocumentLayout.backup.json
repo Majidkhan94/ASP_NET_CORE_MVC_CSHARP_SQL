@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8308EBFA-FB2A-4232-ABD5-F751C917E202}|StorePRocedure( CRUD )\\StorePRocedure( CRUD ).csproj|c:\\users\\pc\\desktop\\project\\storeprocedure( crud )\\storeprocedure( crud )\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8308EBFA-FB2A-4232-ABD5-F751C917E202}|StorePRocedure( CRUD )\\StorePRocedure( CRUD ).csproj|solutionrelative:storeprocedure( crud )\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8308EBFA-FB2A-4232-ABD5-F751C917E202}|StorePRocedure( CRUD )\\StorePRocedure( CRUD ).csproj|c:\\users\\pc\\desktop\\project\\storeprocedure( crud )\\storeprocedure( crud )\\wwwroot\\customcss\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8308EBFA-FB2A-4232-ABD5-F751C917E202}|StorePRocedure( CRUD )\\StorePRocedure( CRUD ).csproj|solutionrelative:storeprocedure( crud )\\wwwroot\\customcss\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8308EBFA-FB2A-4232-ABD5-F751C917E202}|StorePRocedure( CRUD )\\StorePRocedure( CRUD ).csproj|c:\\users\\pc\\desktop\\project\\storeprocedure( crud )\\storeprocedure( crud )\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8308EBFA-FB2A-4232-ABD5-F751C917E202}|StorePRocedure( CRUD )\\StorePRocedure( CRUD ).csproj|solutionrelative:storeprocedure( crud )\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8308EBFA-FB2A-4232-ABD5-F751C917E202}|StorePRocedure( CRUD )\\StorePRocedure( CRUD ).csproj|c:\\users\\pc\\desktop\\project\\storeprocedure( crud )\\storeprocedure( crud )\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8308EBFA-FB2A-4232-ABD5-F751C917E202}|StorePRocedure( CRUD )\\StorePRocedure( CRUD ).csproj|solutionrelative:storeprocedure( crud )\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8308EBFA-FB2A-4232-ABD5-F751C917E202}|StorePRocedure( CRUD )\\StorePRocedure( CRUD ).csproj|c:\\users\\pc\\desktop\\project\\storeprocedure( crud )\\storeprocedure( crud )\\globalusingdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8308EBFA-FB2A-4232-ABD5-F751C917E202}|StorePRocedure( CRUD )\\StorePRocedure( CRUD ).csproj|solutionrelative:storeprocedure( crud )\\globalusingdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsingDir.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\StorePRocedure( CRUD )\\GlobalUsingDir.cs",
+              "RelativeDocumentMoniker": "StorePRocedure( CRUD )\\GlobalUsingDir.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\StorePRocedure( CRUD )\\GlobalUsingDir.cs",
+              "RelativeToolTip": "StorePRocedure( CRUD )\\GlobalUsingDir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T05:08:39.387Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\StorePRocedure( CRUD )\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "StorePRocedure( CRUD )\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\StorePRocedure( CRUD )\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "StorePRocedure( CRUD )\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T07:28:05.512Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\StorePRocedure( CRUD )\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "StorePRocedure( CRUD )\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\StorePRocedure( CRUD )\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "StorePRocedure( CRUD )\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwEoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T06:13:38.126Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\StorePRocedure( CRUD )\\wwwroot\\Customcss\\StyleSheet.css",
+              "RelativeDocumentMoniker": "StorePRocedure( CRUD )\\wwwroot\\Customcss\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\StorePRocedure( CRUD )\\wwwroot\\Customcss\\StyleSheet.css",
+              "RelativeToolTip": "StorePRocedure( CRUD )\\wwwroot\\Customcss\\StyleSheet.css",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAAMYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-18T08:48:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\StorePRocedure( CRUD )\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StorePRocedure( CRUD )\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\StorePRocedure( CRUD )\\StorePRocedure( CRUD )\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "StorePRocedure( CRUD )\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T08:43:39.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

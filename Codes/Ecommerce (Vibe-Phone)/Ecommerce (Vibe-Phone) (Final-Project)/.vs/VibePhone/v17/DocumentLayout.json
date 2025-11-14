@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\views\\front\\apple.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\views\\front\\apple.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\views\\front\\bose.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\views\\front\\bose.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\views\\front\\sennheiser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\views\\front\\sennheiser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\views\\front\\sony.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\views\\front\\sony.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\views\\front\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\views\\front\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\wwwroot\\customcss\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\wwwroot\\customcss\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\views\\front\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\views\\front\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\views\\slider\\singleproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\views\\slider\\singleproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\views\\gallery\\singleproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\views\\gallery\\singleproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\views\\feature\\singleproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\views\\feature\\singleproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|c:\\users\\pc\\desktop\\project\\final-project\\vibephone\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A5148B2-EF59-44C1-9E2F-4F423FFECE6D}|VibePhone\\VibePhone.csproj|solutionrelative:vibephone\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "VibePhone\\Views\\Front\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\HomePage.cshtml",
+              "RelativeToolTip": "VibePhone\\Views\\Front\\HomePage.cshtml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAF8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:50:56.65Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apple.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\Apple.cshtml",
+              "RelativeDocumentMoniker": "VibePhone\\Views\\Front\\Apple.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\Apple.cshtml",
+              "RelativeToolTip": "VibePhone\\Views\\Front\\Apple.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:35:18.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bose.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\Bose.cshtml",
+              "RelativeDocumentMoniker": "VibePhone\\Views\\Front\\Bose.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\Bose.cshtml",
+              "RelativeToolTip": "VibePhone\\Views\\Front\\Bose.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:35:15.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sennheiser.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\Sennheiser.cshtml",
+              "RelativeDocumentMoniker": "VibePhone\\Views\\Front\\Sennheiser.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\Sennheiser.cshtml",
+              "RelativeToolTip": "VibePhone\\Views\\Front\\Sennheiser.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:35:09.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sony.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\Sony.cshtml",
+              "RelativeDocumentMoniker": "VibePhone\\Views\\Front\\Sony.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\Sony.cshtml",
+              "RelativeToolTip": "VibePhone\\Views\\Front\\Sony.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:34:18.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\wwwroot\\Customcss\\StyleSheet.css",
+              "RelativeDocumentMoniker": "VibePhone\\wwwroot\\Customcss\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\wwwroot\\Customcss\\StyleSheet.css",
+              "RelativeToolTip": "VibePhone\\wwwroot\\Customcss\\StyleSheet.css",
+              "ViewState": "AgIAACYDAAAAAAAAAAAwwDMDAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-30T07:26:24.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SingleProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Gallery\\SingleProduct.cshtml",
+              "RelativeDocumentMoniker": "VibePhone\\Views\\Gallery\\SingleProduct.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Gallery\\SingleProduct.cshtml",
+              "RelativeToolTip": "VibePhone\\Views\\Gallery\\SingleProduct.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:22:04.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SingleProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Feature\\SingleProduct.cshtml",
+              "RelativeDocumentMoniker": "VibePhone\\Views\\Feature\\SingleProduct.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Feature\\SingleProduct.cshtml",
+              "RelativeToolTip": "VibePhone\\Views\\Feature\\SingleProduct.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:21:17.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SingleProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Slider\\SingleProduct.cshtml",
+              "RelativeDocumentMoniker": "VibePhone\\Views\\Slider\\SingleProduct.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Slider\\SingleProduct.cshtml",
+              "RelativeToolTip": "VibePhone\\Views\\Slider\\SingleProduct.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T07:19:08.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Models\\Gallery.cs",
+              "RelativeDocumentMoniker": "VibePhone\\Models\\Gallery.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Models\\Gallery.cs",
+              "RelativeToolTip": "VibePhone\\Models\\Gallery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:15:31.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\Products.cshtml",
+              "RelativeDocumentMoniker": "VibePhone\\Views\\Front\\Products.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project\\Final-Project\\VibePhone\\Views\\Front\\Products.cshtml",
+              "RelativeToolTip": "VibePhone\\Views\\Front\\Products.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:53:48.688Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

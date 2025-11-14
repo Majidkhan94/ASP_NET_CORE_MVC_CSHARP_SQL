@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(manually create and functional)\\crud-project\\crud-project\\controller\\stddetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|solutionrelative:crud-project\\controller\\stddetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(manually create and functional)\\crud-project\\crud-project\\repository\\cstddetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|solutionrelative:crud-project\\repository\\cstddetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(manually create and functional)\\crud-project\\crud-project\\repository\\istddetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|solutionrelative:crud-project\\repository\\istddetailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(manually create and functional)\\crud-project\\crud-project\\views\\stddetail\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|solutionrelative:crud-project\\views\\stddetail\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(manually create and functional)\\crud-project\\crud-project\\views\\stddetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|solutionrelative:crud-project\\views\\stddetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(manually create and functional)\\crud-project\\crud-project\\views\\stddetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|solutionrelative:crud-project\\views\\stddetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(manually create and functional)\\crud-project\\crud-project\\views\\stddetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|solutionrelative:crud-project\\views\\stddetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(manually create and functional)\\crud-project\\crud-project\\views\\stddetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|solutionrelative:crud-project\\views\\stddetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(manually create and functional)\\crud-project\\crud-project\\wwwroot\\customcss\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{614279F7-F36C-414A-B5BA-F08EBCFFD3A8}|CRUD-PROJECT\\CRUD-PROJECT.csproj|solutionrelative:crud-project\\wwwroot\\customcss\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Views\\StdDetail\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD-PROJECT\\Views\\StdDetail\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Views\\StdDetail\\Index.cshtml",
+              "RelativeToolTip": "CRUD-PROJECT\\Views\\StdDetail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:59:49.074Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StdDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Controller\\StdDetailController.cs",
+              "RelativeDocumentMoniker": "CRUD-PROJECT\\Controller\\StdDetailController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Controller\\StdDetailController.cs",
+              "RelativeToolTip": "CRUD-PROJECT\\Controller\\StdDetailController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:11:13.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CStdDetailRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Repository\\CStdDetailRepo.cs",
+              "RelativeDocumentMoniker": "CRUD-PROJECT\\Repository\\CStdDetailRepo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Repository\\CStdDetailRepo.cs",
+              "RelativeToolTip": "CRUD-PROJECT\\Repository\\CStdDetailRepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:00:41.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStdDetailRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Repository\\IStdDetailRepo.cs",
+              "RelativeDocumentMoniker": "CRUD-PROJECT\\Repository\\IStdDetailRepo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Repository\\IStdDetailRepo.cs",
+              "RelativeToolTip": "CRUD-PROJECT\\Repository\\IStdDetailRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T14:00:11.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Views\\StdDetail\\Update.cshtml",
+              "RelativeDocumentMoniker": "CRUD-PROJECT\\Views\\StdDetail\\Update.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Views\\StdDetail\\Update.cshtml",
+              "RelativeToolTip": "CRUD-PROJECT\\Views\\StdDetail\\Update.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:08:39.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Views\\StdDetail\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUD-PROJECT\\Views\\StdDetail\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Views\\StdDetail\\Details.cshtml",
+              "RelativeToolTip": "CRUD-PROJECT\\Views\\StdDetail\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:08:20.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Views\\StdDetail\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD-PROJECT\\Views\\StdDetail\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Views\\StdDetail\\Delete.cshtml",
+              "RelativeToolTip": "CRUD-PROJECT\\Views\\StdDetail\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:08:03.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Views\\StdDetail\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD-PROJECT\\Views\\StdDetail\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\Views\\StdDetail\\Create.cshtml",
+              "RelativeToolTip": "CRUD-PROJECT\\Views\\StdDetail\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:07:34.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\wwwroot\\CustomCss\\StyleSheet.css",
+              "RelativeDocumentMoniker": "CRUD-PROJECT\\wwwroot\\CustomCss\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(MANUALLY CREATE AND FUNCTIONAL)\\CRUD-PROJECT\\CRUD-PROJECT\\wwwroot\\CustomCss\\StyleSheet.css",
+              "RelativeToolTip": "CRUD-PROJECT\\wwwroot\\CustomCss\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-18T07:01:36.574Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

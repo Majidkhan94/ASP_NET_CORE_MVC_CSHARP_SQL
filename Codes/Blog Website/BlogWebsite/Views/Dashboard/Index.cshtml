@@ -1,0 +1,349 @@
+﻿@model BlogWebsite.CombinedViewModel
+
+
+
+@*
+  Views/Dashboard/Index.cshtml
+*@
+
+@{
+    ViewBag.Title = "Dashboard";
+}
+<div class="container">
+
+    <div class="Sidebar">
+        <!-- Logo -->
+        <div class="Sidebar-header">
+            <img src="~/Images/blackpng.png" alt="User Image" class="logo">
+            @* <h2 class="blog">BLOG NEST</h2> *@
+        </div>
+
+        <!-- Profile Section -->
+        <div class="sidebar-profile">
+            <!-- <img src="images/logo.png" alt="User Image" class="profile-image"> -->
+            <h3 class="username">Majid Khan</h3>
+        </div>
+
+        <!-- Navigation Links -->
+        <ul class="sidebar-menu">
+            <li>
+                <a href="#Dashboard">
+                    <i class="fas fa-tachometer-alt"></i> Dashboard
+                    <i class="fas fa-chevron-right arrow-icon"></i>
+                </a>
+            </li>
+            <li>
+                <a href="#AddPosts">
+                    <i class="fas fa-pen"></i> Add Posts
+                    <i class="fas fa-chevron-right arrow-icon"></i>
+                </a>
+            </li>
+            @* <li>
+                <a href="#Categories">
+                    <i class="fas fa-list"></i> Categories
+                    <i class="fas fa-chevron-right arrow-icon"></i>
+                </a>
+            </li> *@
+            <li>
+                <a href="#AllPosts">
+                    <i class="fas fa-copy"></i> All Posts
+                    <i class="fas fa-chevron-right arrow-icon"></i>
+                </a>
+            </li>
+            
+            <li>
+                <a href="#Comments">
+                    <i class="fas fa-comments"></i> Comments
+                    <i class="fas fa-chevron-right arrow-icon"></i>
+                </a>
+            </li>
+        </ul>
+        <div class="Sidebar-logout">
+            <a asp action="Index" asp-controller="Admin">Logout</a>
+        </div>
+    </div>
+
+    <div class="Main-Content">
+        <!-- DASHBOARD SECTION -->
+        <div class="Dashboard active" id="Dashboard">
+            <div class="main-header"><h3>Admin / Dashboard</h3></div>
+            <h1>DASHBOARD</h1>
+            <div class="main-section">
+                @* <div class="section">
+                    <div class="section-content">
+                        <div class="section-number">6</div>
+                        <div class="section-label">CATEGORIES LISTED</div>
+                    </div>
+                    <i class="fas fa-list icon"></i>
+                </div> *@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                @* work here *@
+
+
+
+
+                <div class="section">
+                    <div class="section-content">
+                        <div class="section-number">@ViewBag.PostCount</div>
+                        <div class="section-label">ALL POST LISTED</div>
+                    </div>
+                    <i class="fas fa-list icon"></i>
+                </div>
+
+                <div class="section">
+                    <div class="section-content">
+                        <div class="section-number">@ViewBag.CommentCount</div>
+                        <div class="section-label">ALL COMMENTS LISTED</div>
+                    </div>
+                    <i class="fas fa-list icon"></i>
+                </div>
+
+
+            </div>
+        </div>
+
+        @* work here *@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!-- ADD POST SECTION -->
+
+        <div class="AddPosts" id="AddPosts">
+            <div class="main-header">
+                <h3>Admin / Add Posts</h3>
+            </div>
+            <h1>ADD POST</h1>
+
+            <form asp-action="Create" asp-controller="Dashboard" method="post" enctype="multipart/form-data">
+                
+
+                <div class="add-post-form">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-row">
+                        <label asp-for="NewPost.Title" class="control-label"></label>
+                        <input asp-for="NewPost.Title" class="form-control" />
+                        <span asp-validation-for="NewPost.Title" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-row">
+                        <label asp-for="NewPost.Description" class="control-label"></label>
+                        <textarea asp-for="NewPost.Description" class="form-control"></textarea>
+                        <span asp-validation-for="NewPost.Description" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-row">
+                        <label asp-for="NewPost.Categories" class="control-label"></label>
+                        <span asp-validation-for="NewPost.Categories" class="text-danger"></span>
+                        <select asp-for="NewPost.Categories" id="post-category" class="form-control">
+                            <option value="">Select Category</option>
+                            <option value="Technology">Technology</option>
+                            <option value="Education">Education</option>
+                            <option value="Health">Health</option>
+                            <option value="Entertainment">Entertainment</option>
+                        </select>
+                    </div>
+
+                    <div class="form-row">
+                        <label asp-for="NewPost.Image" class="control-label"></label>
+                        <input type="file" asp-for="NewPost.Image" class="form-control" />
+                        <span asp-validation-for="NewPost.Image" class="text-danger"></span>
+                    </div>
+
+
+
+
+
+                    <div class="form-row">
+                        <input type="submit" value="Submit" class="submit-btn" />
+                    </div>
+                </div>
+            </form>
+
+        </div>
+
+      @*    <!-- CATEGORIES SECTION -->
+        <div class="Categories" id="Categories">
+            <div class="main-header"><h3>Admin / Categories</h3></div>
+            <h1>CATEGORIES</h1>
+            <div class="main-section">
+                <div class="section">
+                    <div class="section-content">
+                        <div class="section-number">6</div>
+                        <div class="section-label">TECHNOLOGIES</div>
+                    </div>
+                    <i class="fas fa-list icon"></i>
+                </div>
+
+                <div class="section">
+                    <div class="section-content">
+                        <div class="section-number">4</div>
+                        <div class="section-label">EDUCATIONS</div>
+                    </div>
+                    <i class="fas fa-list icon"></i>
+                </div>
+
+                <div class="section">
+                    <div class="section-content">
+                        <div class="section-number">4</div>
+                        <div class="section-label">HEALTH</div>
+                    </div>
+                    <i class="fas fa-list icon"></i>
+                </div>
+
+                <div class="section">
+                    <div class="section-content">
+                        <div class="section-number">4</div>
+                        <div class="section-label">ENTERTAINMENT</div>
+                    </div>
+                    <i class="fas fa-list icon"></i>
+                </div>
+            </div>
+        </div>  *@
+
+
+
+
+<div class="AllPosts" id="AllPosts">
+    <div class="main-header">
+        <h3>Admin / All Posts</h3>
+    </div>
+    <h1>ALL POSTS</h1>
+    <div class="custom-main">
+
+        <!-- 🔍 Search Section -->
+        <div class="custom-search">
+            <input type="text" placeholder="Search All Posts..." class="custom-search-input" id="Post-Search" />
+            <button class="custom-search-btn">Search</button>
+        </div>
+
+                @if (Model.AllPosts != null && Model.AllPosts.Any())
+                {
+                    @foreach (var post in Model.AllPosts)
+                    {
+                        <div class="custom-post">
+                            <div class="custom-post-content">
+                                <div class="custom-post-text">
+                                    <div class="custom-post-title">Title: @post.Title</div>
+                                    <div class="custom-post-Categories">Categories: @post.Categories</div>
+                                </div>
+                                <div>
+                                    <form asp-action="Delete" asp-route-id="@post.ID" method="post">
+                                        <button type="submit" class="custom-btn danger">Delete</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+
+                    }
+                }
+               
+
+    </div>
+</div>
+
+
+
+
+
+
+
+        <!-- COMMENTS SECTION -->
+        <div class="Comments" id="Comments">
+            <div class="main-header"><h3>Admin / Comments</h3></div>
+            <h1>COMMENTS</h1>
+
+            <div class="comment-body">
+                <!-- 🔍 Search Section -->
+                <div class="custom-search">
+                    <input type="text" placeholder="Search Comments..." class="custom-search-input" id="Comment-Search" />
+                    <button class="custom-search-btn">Search</button>
+                </div>
+
+                @foreach (var comment in Model.Comments)
+                {
+                    <div class="comment-card">
+                        <div class="card">
+                            <div class="comment-author">@comment.AuthorName</div>
+                            <div class="comment-text">@comment.Content</div>
+                            <div class="comment-meta">
+                                <span class="comment-date">@comment.CreatedAt.ToString("yyyy-MM-dd")</span>
+                            </div>
+                        </div>
+
+                        <form method="post" asp-action="DeleteComment" asp-controller="Dashboard">
+                            <input type="hidden" name="id" value="@comment.ID" />
+                            <button type="submit" class="comment-btn">Delete</button>
+                        </form>
+                    </div>
+                }
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+</div>

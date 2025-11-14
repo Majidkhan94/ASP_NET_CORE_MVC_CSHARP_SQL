@@ -1,0 +1,272 @@
+﻿@model VibePhone.ViewModel.ViewDashboard
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+}
+
+
+<section class="container">
+
+@* =============================================================================================
+                                                  🔹 RightSide
+   ============================================================================================= *@
+    
+     <section class="rightside">
+        <h2>@ViewBag.UserName</h2>
+
+
+        <ul>
+            <li><a href="#Slider" onclick="scrollToSection('Slider')"><i class="fa fa-sliders-h"></i> Sliders</a></li>
+            <li><a href="#Feature" onclick="scrollToSection('Feature')"><i class="fa fa-star"></i> Features</a></li>
+            <li><a href="#Categories" onclick="scrollToSection('Categories')"><i class="fa fa-folder"></i> Categories</a></li>
+            <li><a href="#Gallery" onclick="scrollToSection('Gallery')"><i class="fa fa-images"></i> Galleries</a></li>
+            <li><a href="#Blog" onclick="scrollToSection('Blog')"><i class="fa fa-blog"></i> Blogs</a></li>
+            <li><a href="#Testimonials" onclick="scrollToSection('Testimonials')"><i class="fa fa-comments"></i> Testimonials</a></li>
+            <li><a href="#Newsletter" onclick="scrollToSection('Newsletter')"><i class="fa fa-envelope-open-text"></i> Newsletters</a></li>
+            <li><a href="#Contactus" onclick="scrollToSection('Contactus')"><i class="fa fa-phone"></i>  Contactus</a></li>
+            <li><a asp-controller="Registration" asp-action="Logout"><i class="fa fa-sign-out-alt"></i> Logout</a></li>
+        </ul>
+
+    </section>
+
+
+@* =============================================================================================
+                                                  🔹 LeftSide
+   ============================================================================================= *@
+
+    <section class="leftside">
+        
+                             @* =======================================================
+                                                  🔹 Slider
+                             ======================================================= *@
+
+        <section class="Section" id="Slider">
+            <div class="Header"><p>Sliders</p></div>
+            <div class="slider-list">
+                <a asp-controller="Slider" asp-action="SliderAdd" class="add-btn">Add New Slider</a>
+                @foreach (var item in Model.Slider)
+                {
+                    <div class="slider-card">
+                        <img src="~/UploadImages/@item.Image" alt="@item.Title" class="slider-image" />
+                        <div class="slider-content">
+                            <div>
+                                <div class="slider-price">@item.Price?.ToString("C")</div>
+                                <div class="slider-title">@item.Title</div>
+                                <div class="slider-description">@item.Description</div>
+                                <div class="slider-category">
+                                    📂 @(item.Category?.CategoryName ?? "No Category")
+                                </div>
+                            </div>
+                            <div class="slider-actions">
+                                <a asp-controller="Slider" asp-action="SliderUpdate" asp-route-id="@item.Id" class="edit-btn">Update</a>
+                                <a asp-controller="Slider" asp-action="SliderDelete" asp-route-id="@item.Id" class="delete-btn">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+
+
+                             @* =======================================================
+                                                  🔹 Feature
+                             ======================================================= *@
+
+        <section class="Section" id="Feature">
+            <div class="Header"><p>Features</p></div>
+            <div class="slider-list">
+                <a asp-controller="Feature" asp-action="FeatureAdd" class="add-btn">Add New Feature</a>
+                @foreach (var item in Model.Feature)
+                {
+                    <div class="slider-card">
+                        <img src="~/UploadImages/@item.Image" alt="@item.Title" class="slider-image" />
+                        <div class="slider-content">
+                            <div>
+                                <div class="slider-price">@item.Price?.ToString("C")</div>
+                                <div class="slider-title">@item.Title</div>
+                                <div class="slider-description">@item.Description</div>
+                                <div class="slider-category">
+                                    📂 @(item.Category?.CategoryName ?? "No Category")
+                                </div>
+                            </div>
+
+                            <div class="slider-actions">
+                                <a asp-controller="Feature" asp-action="FeatureUpdate" asp-route-id="@item.Id" class="edit-btn">Update</a>
+                                <a asp-controller="Feature" asp-action="FeatureDelete" asp-route-id="@item.Id" class="delete-btn">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+
+
+        @* =======================================================
+                                                  🔹 Category
+                             ======================================================= *@
+
+        <section class="Section" id="Categories">
+            <div class="Header"><p>Categories</p></div>
+            <div class="slider-list">
+                <a asp-controller="Category" asp-action="CategoryAdd" class="add-btn">Add New Category</a>
+                @foreach (var item in Model.Category)
+                {
+                    <div class="slider-card">
+                        <div class="slider-content Category">
+                            <div>
+                                <div class="slider-title ctitle">@item.CategoryName</div>
+                            </div>
+                            <div class="slider-actions">
+                                <a asp-controller="Category" asp-action="CategoryUpdate" asp-route-id="@item.CategoryId" class="edit-btn">Update</a>
+                                <a asp-controller="Category" asp-action="CategoryDelete" asp-route-id="@item.CategoryId" class="delete-btn">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+
+        @* =======================================================
+                                                  🔹 Gallery
+                             ======================================================= *@
+
+        <section class="Section gsection" id="Gallery">
+            <div class="Header"><p>Galleries</p></div>
+            <div class="slider-list glist">
+                <a asp-controller="Gallery" asp-action="GalleryAdd" class="add-btn">Add New Gallery</a>
+                
+                    <div class="slider-card gcard">
+                    @foreach (var item in Model.Gallery)
+                    {
+                        <div class="box">
+                            <!-- Product Image -->
+                            <img src="~/UploadImages/@item.ImageGallery" class="slider-image gimage" alt="@item.ProductName" />
+
+                            <!-- Product Info -->
+                            <div class="gallery-info">
+                                <p class="gallery-price">Price: $@item.Price</p>
+                                <p class="gallery-category">Category: @item.Category?.CategoryName</p>
+                                <h3 class="gallery-productname">Name: @item.ProductName</h3>
+                                <p class="gallery-description">Description: @item.Description</p>
+                            </div>
+
+                            <!-- Delete Button -->
+                            <a asp-controller="Gallery" asp-action="GalleryDelete" asp-route-id="@item.Id" class="delete-btn gdelete">Delete</a>
+                        </div>
+                    }
+
+                </div>
+                
+            </div>
+        </section>
+
+
+
+
+        @* =======================================================
+                                                  🔹 Blog
+                             ======================================================= *@
+
+        <section class="Section" id="Blog">
+            <div class="Header"><p>Blogs</p></div>
+            <div class="slider-list">
+                <a asp-controller="Blog" asp-action="BlogAdd" class="add-btn">Add New Blog</a>
+                @foreach (var item in Model.Blog)
+                {
+                    <div class="slider-card">
+                        <img src="~/UploadImages/@item.Image" alt="@item.Title" class="slider-image" />
+                        <div class="slider-content">
+                            <div>
+                                @* <div class="slider-price">@item.Price?.ToString("C")</div> *@
+                                <div class="slider-title">@item.Title</div>
+                                <div class="slider-description">@item.Description</div>
+                                <div class="slider-category">
+                                    📂 @(item.Category?.CategoryName ?? "No Category")
+                                </div>
+                            </div>
+                            <div class="slider-actions">
+                                <a asp-controller="Blog" asp-action="BlogUpdate" asp-route-id="@item.Id" class="edit-btn">Update</a>
+                                <a asp-controller="Blog" asp-action="BlogDelete" asp-route-id="@item.Id" class="delete-btn">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+
+        @* =======================================================
+                                                  🔹 Testimonials
+                             ======================================================= *@
+
+        <section class="Section" id="Testimonials">
+            <div class="Header"><p>Testimonials</p></div>
+            <div class="slider-list">
+                <a asp-controller="Testimonial" asp-action="TestimonialAdd" class="add-btn">Add New Testimonial</a>
+                @foreach (var item in Model.Testimonial)
+                {
+                    <div class="slider-card">
+                        <img src="~/Images/DefaultImage.png" class="slider-image timage" />
+                        <div class="slider-content">
+                            <div>
+                                <div class="slider-title">@item.Title</div>
+                                <div class="slider-description tdesc">@item.Description</div>
+                            </div>
+                            <div class="slider-actions">
+                                <a asp-controller="Testimonial" asp-action="TestimonialUpdate" asp-route-id="@item.Id" class="edit-btn">Update</a>
+                                <a asp-controller="Testimonial" asp-action="TestimonialDelete" asp-route-id="@item.Id" class="delete-btn">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+        @* =======================================================
+                                                  🔹 Newsletter
+                             ======================================================= *@
+
+        <section class="Section" id="Newsletter">
+            <div class="Header"><p>Newsletters</p></div>
+            <div class="slider-list">
+                <a asp-controller="Newsletter" asp-action="NewsletterAdd" class="add-btn">Add New Newsletter</a>
+                @foreach (var item in Model.Newsletter)
+                {
+                    <div class="slider-card">
+                        <div class="slider-content ncontent">
+                            <div>
+                                <div class="slider-title  ntitle">@item.Email</div>
+                            </div>
+                            <div class="slider-actions">
+                                <a asp-controller="Newsletter" asp-action="NewsletterUpdate" asp-route-id="@item.Id" class="edit-btn">Update</a>
+                                <a asp-controller="Newsletter" asp-action="NewsletterDelete" asp-route-id="@item.Id" class="delete-btn">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>
+
+@* =======================================================
+                                                  🔹 Contactus
+                             ======================================================= *@
+
+        <section class="Section" id="Contactus">
+            <div class="Header"><p>Contactus</p></div>
+            <div class="slider-list">
+                <a asp-controller="Contactus" asp-action="AddContact" class="add-btn">Add New Contactus</a>
+                @foreach (var item in Model.Contactus)
+                {
+                    <div class="slider-card">
+                        <div class="slider-content ncontent">
+                            <div>
+                                <div class="slider-title  ntitle">@item.Name</div>
+                                <div class="slider-title  ntitle">@item.Email</div>
+                                <div class="slider-title  ntitle">@item.Message</div>
+                            </div>
+                            <div class="slider-actions">
+                                <a asp-controller="Contactus" asp-action="DeleteContact" asp-route-id="@item.Id" class="delete-btn">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </section>

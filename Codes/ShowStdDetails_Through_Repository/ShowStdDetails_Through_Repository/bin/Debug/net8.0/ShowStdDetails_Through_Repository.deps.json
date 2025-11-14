@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShowStdDetails_Through_Repository/1.0.0": {
+        "runtime": {
+          "ShowStdDetails_Through_Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShowStdDetails_Through_Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

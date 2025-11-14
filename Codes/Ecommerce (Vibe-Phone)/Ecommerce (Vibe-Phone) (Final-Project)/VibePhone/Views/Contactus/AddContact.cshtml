@@ -1,0 +1,46 @@
+﻿@model VibePhone.Models.Contactus
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "Add Contact";
+}
+
+<div class="maincontainer">
+    <div class="container-card">
+        <h4>Add Contact</h4>
+        <hr>
+
+        <form asp-action="AddContact" method="post">
+            <div class="form-row">
+
+                <!-- Name -->
+                <div class="form-group">
+                    <input asp-for="Name" class="feature-field" placeholder="Enter Name" required />
+                    <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <!-- Email -->
+                <div class="form-group">
+                    <input asp-for="Email" type="email" class="feature-field" placeholder="Enter Email" required />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <!-- Message -->
+                <div class="form-group">
+                    <textarea asp-for="Message" class="feature-field" placeholder="Enter Message" required></textarea>
+                    <span asp-validation-for="Message" class="text-danger"></span>
+                </div>
+
+                <!-- Submit -->
+                <div class="form-group full">
+                    <div class="form-actions">
+                        <input type="submit" value="Add Contact" class="btn btn-primary" />
+                        <a href="@($"{Url.Action("Index", "Dashboard")}#Contactus")" class="btn btn-secondary">Back to Dashboard</a>
+
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>

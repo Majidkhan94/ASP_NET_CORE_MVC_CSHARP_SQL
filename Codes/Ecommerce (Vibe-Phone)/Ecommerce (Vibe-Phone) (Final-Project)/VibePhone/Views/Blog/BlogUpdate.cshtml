@@ -1,0 +1,55 @@
+﻿@model VibePhone.ViewModel.ViewBlog
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "Update Blog";
+}
+
+<div class="maincontainer">
+    <div class="container-card">
+        <h4>Update Blog</h4>
+        <hr>
+
+        <form asp-action="BlogUpdate" method="post" enctype="multipart/form-data">
+            <div class="form-row">
+                <input type="hidden" asp-for="Id" />
+
+                <!-- Title -->
+                <div class="form-group">
+                    <input asp-for="Title" type="text" class="feature-field" placeholder="Enter Title">
+                </div>
+
+                <!-- Description -->
+                <div class="form-group full">
+                    <textarea asp-for="Description" class="feature-field" placeholder="Enter Description"></textarea>
+                </div>
+
+                <!-- Price -->
+                @* <div class="form-group">
+                    <input asp-for="Price" type="number" class="feature-field" placeholder="Enter Price">
+                </div> *@
+
+                <!-- Category -->
+                <div class="form-group">
+                    <select asp-for="CategoryId" asp-items="ViewBag.CategoryList" class="feature-field">
+                        <option value="" disabled selected>Select Category</option>
+                    </select>
+                </div>
+
+                <!-- Image -->
+                <div class="form-group">
+                    <input asp-for="Image" type="file" class="feature-field">
+                </div>
+
+                <!-- Submit -->
+                <div class="form-group full">
+                    <div class="form-actions">
+                        <input type="submit" value="Update" class="btn btn-primary">
+                        <a href="@($"{Url.Action("Index", "Dashboard")}#Blog")" class="btn btn-secondary">Back to Dashboard</a>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>

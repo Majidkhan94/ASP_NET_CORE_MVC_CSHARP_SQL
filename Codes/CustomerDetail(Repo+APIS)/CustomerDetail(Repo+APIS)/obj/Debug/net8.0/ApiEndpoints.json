@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "CustomerDetail_Repo_APIS_._4.APIS.CustAPISController",
+    "Method": "CreateCust",
+    "RelativePath": "api/CustAPIS",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CreateCust",
+        "Type": "CustomerDetail_Repo_APIS_.Model.CustModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerDetail_Repo_APIS_._4.APIS.CustAPISController",
+    "Method": "GetAllCust",
+    "RelativePath": "api/CustAPIS",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerDetail_Repo_APIS_._4.APIS.CustAPISController",
+    "Method": "CustByID",
+    "RelativePath": "api/CustAPIS/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerDetail_Repo_APIS_._4.APIS.CustAPISController",
+    "Method": "UpdateCust",
+    "RelativePath": "api/CustAPIS/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "UpdateCust",
+        "Type": "CustomerDetail_Repo_APIS_.Model.CustModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CustomerDetail_Repo_APIS_._4.APIS.CustAPISController",
+    "Method": "DeleteCust",
+    "RelativePath": "api/CustAPIS/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

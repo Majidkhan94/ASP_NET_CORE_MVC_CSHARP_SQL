@@ -1,0 +1,13 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.SqlServer;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using StudentDetailsThroughAPIS.Models;
+global using StudentDetailsThroughAPIS.APIS;
+global using StudentDetailsThroughAPIS.DBContext;
+global using System.ComponentModel;
+global using Newtonsoft.Json;
+global using System.Text;

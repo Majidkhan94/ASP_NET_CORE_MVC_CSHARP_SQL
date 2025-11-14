@@ -1,0 +1,316 @@
+﻿*
+{
+    margin:0px;
+    padding:0px;
+
+}
+.container {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 800px;
+    width: 100%;
+    padding: 50px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+
+/* Create New link ko button banane ke liye */
+p a {
+    background-color: #4CAF50; /* green */
+    color: white;
+    padding: 8px 14px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background 0.3s ease;
+    float:right;
+}
+
+    p a:hover {
+        background-color: #426643;
+    }
+
+/* Table styling */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 50px;
+/*    font-family: Arial, sans-serif;*/
+}
+
+    .table thead {
+        background-color: #1b834e;
+        color: white;
+    }
+
+    .table th, .table td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+    }
+
+    .table tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+
+    /* Action links */
+    .table td a {
+        color: white;
+        background-color: #2196F3; /* blue */
+        padding: 5px 10px;
+        border-radius: 4px;
+        text-decoration: none;
+        margin: 0 2px;
+        font-size: 14px;
+        float:right;
+    }
+.links
+{
+    width:220px;
+}
+
+.table td a:hover {
+    background-color: #0b7dda;
+}
+
+        /* Different colors for Edit, Details, Delete */
+        .table td a:nth-child(1) {
+            background-color: #ff9800; /* orange for Edit */
+        }
+
+            .table td a:nth-child(1):hover {
+                background-color: #e68900;
+            }
+
+        .table td a:nth-child(2) {
+            background-color: #4CAF50; /* green for Details */
+        }
+
+            .table td a:nth-child(2):hover {
+                background-color: #45a049;
+            }
+
+        .table td a:nth-child(3) {
+            background-color: #f44336; /* red for Delete */
+        }
+
+            .table td a:nth-child(3):hover {
+                background-color: #da190b;
+            }
+
+                                            /*         Create Page         */
+
+/* Form Container */
+.row {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.col-md-4 {
+    background: #fff;
+    padding: 25px 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+/* Form heading */
+h4 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Labels */
+.form-group label {
+    font-weight: bold;
+    margin: 5px;
+    display: block;
+    color: #555;
+}
+
+/* Inputs */
+.form-control {
+    width: 94%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+    .form-control:focus {
+        border-color: #4CAF50;
+        box-shadow: 0 0 5px rgba(76,175,80,0.5);
+    }
+
+/* Validation errors */
+.text-danger {
+    font-size: 14px;
+}
+
+/* Submit Button */
+.btn-primary {
+    background-color: #4CAF50;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    width: 100%;
+    margin-top:25px;
+    color:white;
+   
+}
+.Back
+{
+    float:right;
+}
+
+.btn-primary:hover {
+    background-color: #45a049;
+}
+
+/* Back to List link */
+div a {
+    display: inline-block;
+    margin-top: 15px;
+    text-decoration: none;
+    color: white;
+    background-color: #2196F3;
+    padding: 8px 14px;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+    div a:hover {
+        background-color: #0b7dda;
+    }
+
+                                  /*         Delete Page         */
+
+.deletecontainer {
+    position: relative;
+    max-width: 600px;
+    margin: 80px auto;
+    padding: 25px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    transform: translateY(20px);
+    animation: fadeIn 0.4s ease-in-out;
+}
+
+    .deletecontainer h3 {
+        color: #d9534f;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+.delete-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+    .delete-table th,
+    .delete-table td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: left;
+    }
+
+    .delete-table th {
+        background-color: #f1f1f1;
+        font-weight: bold;
+    }
+
+.deletecontainer form {
+    text-align: center;
+}
+
+.deletecontainer .btn-danger,
+.deletecontainer .btn-primary {
+    padding: 8px 20px;
+    font-size: 14px;
+    border-radius: 4px;
+}
+
+.deletecontainer .btn-primaryy {
+    margin-left: 10px;
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(40px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(20px);
+    }
+}
+                                             /*Details Page*/
+
+.details-container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+}
+
+    .details-container h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+.details-item {
+    display: flex;
+    margin-bottom: 12px;
+    padding: 8px;
+    border-bottom: 1px solid #ccc;
+}
+
+.details-label {
+    font-weight: bold;
+    width: 120px;
+    color: #555;
+}
+
+.details-value {
+    color: #222;
+}
+
+.details-actions {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    .details-actions a {
+        text-decoration: none;
+        padding: 8px 16px;
+        margin: 0 5px;
+        border-radius: 4px;
+        background: #007bff;
+        color: white;
+        transition: background 0.3s;
+    }
+
+        .details-actions a:hover {
+            background: #0056b3;
+        }

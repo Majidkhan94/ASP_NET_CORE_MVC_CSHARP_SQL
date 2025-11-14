@@ -1,0 +1,40 @@
+﻿@model CRUD_PRODUCTS_.Model.ProductModel
+
+<div class="deleteContainer">
+    <h2 class="heading"> Confirm Delete </h2>
+    <h4>Are you sure you want to delete this product?</h4>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Title)</th>
+                <th>@Html.DisplayNameFor(model => model.Price)</th>
+                <th>@Html.DisplayNameFor(model => model.Description)</th>
+                <th>@Html.DisplayNameFor(model => model.Image)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@Html.DisplayFor(model => model.Title)</td>
+                <td>@Html.DisplayFor(model => model.Price)</td>
+                <td>@Html.DisplayFor(model => model.Description)</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(Model.Image))
+                    {
+                        <img src="@Url.Content(Model.Image)" style="width:70px; height:70px;" />
+                    }
+                    else
+                    {
+                        <span>No Image</span>
+                    }
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="ID" />
+        <input type="submit" value="Confirm Delete" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </form>
+</div>

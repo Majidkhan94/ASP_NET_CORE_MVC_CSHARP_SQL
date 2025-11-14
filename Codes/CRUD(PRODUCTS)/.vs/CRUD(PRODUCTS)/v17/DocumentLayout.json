@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(products)\\crud(products)\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|solutionrelative:crud(products)\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(products)\\crud(products)\\repository\\cproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|solutionrelative:crud(products)\\repository\\cproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(products)\\crud(products)\\repository\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|solutionrelative:crud(products)\\repository\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(products)\\crud(products)\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|solutionrelative:crud(products)\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(products)\\crud(products)\\wwwroot\\customcss\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|solutionrelative:crud(products)\\wwwroot\\customcss\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(products)\\crud(products)\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|solutionrelative:crud(products)\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(products)\\crud(products)\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|solutionrelative:crud(products)\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(products)\\crud(products)\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|solutionrelative:crud(products)\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(products)\\crud(products)\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|solutionrelative:crud(products)\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(products)\\crud(products)\\globalusingdirectories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3ABC3AC-FADA-4EF1-8F0F-17446EE18D58}|CRUD(PRODUCTS)\\CRUD(PRODUCTS).csproj|solutionrelative:crud(products)\\globalusingdirectories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalUsingDirectories.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\GlobalUsingDirectories.cs",
+              "RelativeDocumentMoniker": "CRUD(PRODUCTS)\\GlobalUsingDirectories.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\GlobalUsingDirectories.cs",
+              "RelativeToolTip": "CRUD(PRODUCTS)\\GlobalUsingDirectories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T03:59:33.17Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\wwwroot\\CustomCss\\StyleSheet.css",
+              "RelativeDocumentMoniker": "CRUD(PRODUCTS)\\wwwroot\\CustomCss\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\wwwroot\\CustomCss\\StyleSheet.css",
+              "RelativeToolTip": "CRUD(PRODUCTS)\\wwwroot\\CustomCss\\StyleSheet.css",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAkwIABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-22T05:19:40.902Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD(PRODUCTS)\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "CRUD(PRODUCTS)\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T05:58:10.735Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Repository\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "CRUD(PRODUCTS)\\Repository\\IProductRepo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Repository\\IProductRepo.cs",
+              "RelativeToolTip": "CRUD(PRODUCTS)\\Repository\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T06:47:53.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Repository\\CProductRepo.cs",
+              "RelativeDocumentMoniker": "CRUD(PRODUCTS)\\Repository\\CProductRepo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Repository\\CProductRepo.cs",
+              "RelativeToolTip": "CRUD(PRODUCTS)\\Repository\\CProductRepo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T06:49:02.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "CRUD(PRODUCTS)\\Controller\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Controller\\ProductController.cs",
+              "RelativeToolTip": "CRUD(PRODUCTS)\\Controller\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:05:35.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Model\\ProductModel.cs",
+              "RelativeDocumentMoniker": "CRUD(PRODUCTS)\\Model\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Model\\ProductModel.cs",
+              "RelativeToolTip": "CRUD(PRODUCTS)\\Model\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:25:29.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD(PRODUCTS)\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "CRUD(PRODUCTS)\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T08:13:57.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD(PRODUCTS)\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "CRUD(PRODUCTS)\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T07:25:59.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "CRUD(PRODUCTS)\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(PRODUCTS)\\CRUD(PRODUCTS)\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "CRUD(PRODUCTS)\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T06:44:36.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

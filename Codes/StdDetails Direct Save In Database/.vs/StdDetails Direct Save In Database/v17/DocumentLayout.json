@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\stddetails direct save in database\\stddetails direct save in database\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|solutionrelative:stddetails direct save in database\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\stddetails direct save in database\\stddetails direct save in database\\views\\stddetails\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|solutionrelative:stddetails direct save in database\\views\\stddetails\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\stddetails direct save in database\\stddetails direct save in database\\controller\\stddetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|solutionrelative:stddetails direct save in database\\controller\\stddetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\stddetails direct save in database\\stddetails direct save in database\\views\\stddetails\\showstddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|solutionrelative:stddetails direct save in database\\views\\stddetails\\showstddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\stddetails direct save in database\\stddetails direct save in database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|solutionrelative:stddetails direct save in database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\stddetails direct save in database\\stddetails direct save in database\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|solutionrelative:stddetails direct save in database\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\stddetails direct save in database\\stddetails direct save in database\\data\\modeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|solutionrelative:stddetails direct save in database\\data\\modeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\stddetails direct save in database\\stddetails direct save in database\\model\\stddetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|solutionrelative:stddetails direct save in database\\model\\stddetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\stddetails direct save in database\\stddetails direct save in database\\global-usingdir-templete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|solutionrelative:stddetails direct save in database\\global-usingdir-templete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\stddetails direct save in database\\stddetails direct save in database\\migrations\\20250725150807_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76F0A1B8-B953-4839-87A0-699858AC0992}|StdDetails Direct Save In Database\\StdDetails Direct Save In Database.csproj|solutionrelative:stddetails direct save in database\\migrations\\20250725150807_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global-UsingDir-Templete.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Global-UsingDir-Templete.cs",
+              "RelativeDocumentMoniker": "StdDetails Direct Save In Database\\Global-UsingDir-Templete.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Global-UsingDir-Templete.cs",
+              "RelativeToolTip": "StdDetails Direct Save In Database\\Global-UsingDir-Templete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:18:14.862Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\appsettings.json",
+              "RelativeDocumentMoniker": "StdDetails Direct Save In Database\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\appsettings.json",
+              "RelativeToolTip": "StdDetails Direct Save In Database\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T06:39:57.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250725150807_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Migrations\\20250725150807_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StdDetails Direct Save In Database\\Migrations\\20250725150807_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Migrations\\20250725150807_InitialCreate.cs",
+              "RelativeToolTip": "StdDetails Direct Save In Database\\Migrations\\20250725150807_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T15:08:07.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StdDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Controller\\StdDetailsController.cs",
+              "RelativeDocumentMoniker": "StdDetails Direct Save In Database\\Controller\\StdDetailsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Controller\\StdDetailsController.cs",
+              "RelativeToolTip": "StdDetails Direct Save In Database\\Controller\\StdDetailsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:54:28.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModelData.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Data\\ModelData.cs",
+              "RelativeDocumentMoniker": "StdDetails Direct Save In Database\\Data\\ModelData.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Data\\ModelData.cs",
+              "RelativeToolTip": "StdDetails Direct Save In Database\\Data\\ModelData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:23:12.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Views\\StdDetails\\Success.cshtml",
+              "RelativeDocumentMoniker": "StdDetails Direct Save In Database\\Views\\StdDetails\\Success.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Views\\StdDetails\\Success.cshtml",
+              "RelativeToolTip": "StdDetails Direct Save In Database\\Views\\StdDetails\\Success.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T14:01:47.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StdDetailsModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Model\\StdDetailsModel.cs",
+              "RelativeDocumentMoniker": "StdDetails Direct Save In Database\\Model\\StdDetailsModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Model\\StdDetailsModel.cs",
+              "RelativeToolTip": "StdDetails Direct Save In Database\\Model\\StdDetailsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:55:50.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Program.cs",
+              "RelativeDocumentMoniker": "StdDetails Direct Save In Database\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Program.cs",
+              "RelativeToolTip": "StdDetails Direct Save In Database\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:43:07.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowStdDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Views\\StdDetails\\ShowStdDetails.cshtml",
+              "RelativeDocumentMoniker": "StdDetails Direct Save In Database\\Views\\StdDetails\\ShowStdDetails.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\Views\\StdDetails\\ShowStdDetails.cshtml",
+              "RelativeToolTip": "StdDetails Direct Save In Database\\Views\\StdDetails\\ShowStdDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T13:47:49.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\wwwroot\\Css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "StdDetails Direct Save In Database\\wwwroot\\Css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\StdDetails Direct Save In Database\\StdDetails Direct Save In Database\\wwwroot\\Css\\StyleSheet.css",
+              "RelativeToolTip": "StdDetails Direct Save In Database\\wwwroot\\Css\\StyleSheet.css",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-25T14:57:07.755Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿@model VibePhone.Models.Gallery
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "Delete Gallery";
+}
+
+<div class="Dcontainer">
+    <h3>Are you sure you want to delete this?</h3>
+    <hr />
+
+    <div class="mb-3">
+        <img src="~/UploadImages/@Model.ImageGallery" alt="Image" style="max-width:200px; height:auto;" />
+    </div>
+
+    <form asp-action="GalleryDeleteConfirmed" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-actions">
+            <input type="submit" value="Delete" class="delete-btn" />
+            <a href="@($"{Url.Action("Index", "Dashboard")}#Gallery")" class="btn btn-secondary">Back to Dashboard</a>
+        </div>
+    </form>
+</div>

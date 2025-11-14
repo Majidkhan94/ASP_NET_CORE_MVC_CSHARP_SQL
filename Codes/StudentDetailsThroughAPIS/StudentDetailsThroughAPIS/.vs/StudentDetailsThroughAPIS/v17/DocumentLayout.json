@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|c:\\users\\pc\\desktop\\complete_project\\mvc\\studentdetailsthroughapis\\studentdetailsthroughapis\\views\\stddetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|solutionrelative:studentdetailsthroughapis\\views\\stddetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|c:\\users\\pc\\desktop\\complete_project\\mvc\\studentdetailsthroughapis\\studentdetailsthroughapis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|solutionrelative:studentdetailsthroughapis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|c:\\users\\pc\\desktop\\complete_project\\mvc\\studentdetailsthroughapis\\studentdetailsthroughapis\\dbcontext\\studentdetailsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|solutionrelative:studentdetailsthroughapis\\dbcontext\\studentdetailsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|c:\\users\\pc\\desktop\\complete_project\\mvc\\studentdetailsthroughapis\\studentdetailsthroughapis\\globalusingdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|solutionrelative:studentdetailsthroughapis\\globalusingdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|c:\\users\\pc\\desktop\\complete_project\\mvc\\studentdetailsthroughapis\\studentdetailsthroughapis\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|solutionrelative:studentdetailsthroughapis\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|c:\\users\\pc\\desktop\\complete_project\\mvc\\studentdetailsthroughapis\\studentdetailsthroughapis\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|solutionrelative:studentdetailsthroughapis\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|c:\\users\\pc\\desktop\\complete_project\\mvc\\studentdetailsthroughapis\\studentdetailsthroughapis\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|solutionrelative:studentdetailsthroughapis\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|c:\\users\\pc\\desktop\\complete_project\\mvc\\studentdetailsthroughapis\\studentdetailsthroughapis\\controllers\\stddetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|solutionrelative:studentdetailsthroughapis\\controllers\\stddetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|c:\\users\\pc\\desktop\\complete_project\\mvc\\studentdetailsthroughapis\\studentdetailsthroughapis\\apis\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|solutionrelative:studentdetailsthroughapis\\apis\\studentapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|c:\\users\\pc\\desktop\\complete_project\\mvc\\studentdetailsthroughapis\\studentdetailsthroughapis\\views\\stddetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFA0B0EC-6794-4044-9E99-125A5054DF2C}|StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS.csproj|solutionrelative:studentdetailsthroughapis\\views\\stddetails\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\StdDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentDetailsThroughAPIS\\Views\\StdDetails\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\StdDetails\\Index.cshtml",
+              "RelativeToolTip": "StudentDetailsThroughAPIS\\Views\\StdDetails\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T09:26:30.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentDetailsThroughAPIS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentDetailsThroughAPIS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T07:31:15.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDetailsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\DBContext\\StudentDetailsDbContext.cs",
+              "RelativeDocumentMoniker": "StudentDetailsThroughAPIS\\DBContext\\StudentDetailsDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\DBContext\\StudentDetailsDbContext.cs",
+              "RelativeToolTip": "StudentDetailsThroughAPIS\\DBContext\\StudentDetailsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:16:39.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GlobalUsingDir.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\GlobalUsingDir.cs",
+              "RelativeDocumentMoniker": "StudentDetailsThroughAPIS\\GlobalUsingDir.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\GlobalUsingDir.cs",
+              "RelativeToolTip": "StudentDetailsThroughAPIS\\GlobalUsingDir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T07:13:18.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentDetailsThroughAPIS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentDetailsThroughAPIS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T07:12:30.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StudentDetailsThroughAPIS\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StudentDetailsThroughAPIS\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T07:12:29.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "StudentDetailsThroughAPIS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "StudentDetailsThroughAPIS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T07:10:48.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StdDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Controllers\\StdDetailsController.cs",
+              "RelativeDocumentMoniker": "StudentDetailsThroughAPIS\\Controllers\\StdDetailsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Controllers\\StdDetailsController.cs",
+              "RelativeToolTip": "StudentDetailsThroughAPIS\\Controllers\\StdDetailsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:19:58.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\APIS\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "StudentDetailsThroughAPIS\\APIS\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\APIS\\StudentAPIController.cs",
+              "RelativeToolTip": "StudentDetailsThroughAPIS\\APIS\\StudentAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T08:31:42.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\StdDetails\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentDetailsThroughAPIS\\Views\\StdDetails\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Complete_Project\\MVC\\StudentDetailsThroughAPIS\\StudentDetailsThroughAPIS\\Views\\StdDetails\\Delete.cshtml",
+              "RelativeToolTip": "StudentDetailsThroughAPIS\\Views\\StdDetails\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T05:49:19.497Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1354,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+﻿@model VibePhone.Models.AdminRegistration
+
+@{
+    Layout = "~/Views/Shared/Registration.cshtml";
+    ViewData["Title"] = "Login";
+}
+
+<div class="registrationcontainer">
+    <!-- Header with Login Icon -->
+    <div class="form-header">
+        <i class="fa fa-sign-in-alt icon"></i>
+        <h2>Login</h2>
+    </div>
+
+    <!-- Login Form -->
+    <form asp-action="Login" class="registration-form">
+        @* <div asp-validation-summary="ModelOnly" class="text-danger"></div> *@
+
+        <span asp-validation-for="Email" class="validation"></span>
+        <input asp-for="Email" class="form-control" placeholder="Enter email" />
+
+        <span asp-validation-for="Password" class="validation"></span>
+        <input asp-for="Password" type="password" class="form-control" placeholder="Enter password" />
+
+        <input type="submit" value="Login" class="btn" />
+    </form>
+
+    <!-- Registration Link -->
+    <div class="login-link">
+        <p>
+            Don’t have an account?
+            <a asp-action="UserRegister" asp-controller="Registration">Register here</a>
+        </p>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

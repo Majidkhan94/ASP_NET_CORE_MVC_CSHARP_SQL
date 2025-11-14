@@ -1,0 +1,33 @@
+﻿@model VibePhone.Models.Category
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "Update Category";
+}
+
+<div class="maincontainer">
+    <div class="container-card">
+        <h4>Update Category</h4>
+        <hr>
+
+        <form asp-action="CategoryUpdate" method="post" enctype="multipart/form-data">
+            <div class="form-row">
+                <input type="hidden" asp-for="CategoryId" />
+
+                <!-- Title -->
+                <div class="form-group">
+                    <input asp-for="CategoryName" type="text" class="feature-field" placeholder="Enter Title">
+                </div>
+
+                <!-- Submit -->
+                <div class="form-group full">
+                    <div class="form-actions">
+                        <input type="submit" value="Update" class="btn btn-primary">
+                        <a href="@($"{Url.Action("Index", "Dashboard")}#Categories")" class="btn btn-secondary">Back to Dashboard</a>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>

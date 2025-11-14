@@ -1,0 +1,61 @@
+wwwroot\CustomCss\Dashboard.css
+wwwroot\CustomCss\HomePage.css
+wwwroot\CustomCss\Userlogin.css
+wwwroot\CustomJS\JavaScript.js
+wwwroot\FontAwsome\css\all.css
+wwwroot\FontAwsome\css\all.min.css
+wwwroot\FontAwsome\css\brands.css
+wwwroot\FontAwsome\css\brands.min.css
+wwwroot\FontAwsome\css\fontawesome.css
+wwwroot\FontAwsome\css\fontawesome.min.css
+wwwroot\FontAwsome\css\regular.css
+wwwroot\FontAwsome\css\regular.min.css
+wwwroot\FontAwsome\css\solid.css
+wwwroot\FontAwsome\css\solid.min.css
+wwwroot\FontAwsome\css\svg-with-js.css
+wwwroot\FontAwsome\css\svg-with-js.min.css
+wwwroot\FontAwsome\css\svg.css
+wwwroot\FontAwsome\css\svg.min.css
+wwwroot\FontAwsome\css\v4-font-face.css
+wwwroot\FontAwsome\css\v4-font-face.min.css
+wwwroot\FontAwsome\css\v4-shims.css
+wwwroot\FontAwsome\css\v4-shims.min.css
+wwwroot\FontAwsome\css\v5-font-face.css
+wwwroot\FontAwsome\css\v5-font-face.min.css
+wwwroot\FontAwsome\webfonts\fa-brands-400.woff2
+wwwroot\FontAwsome\webfonts\fa-regular-400.woff2
+wwwroot\FontAwsome\webfonts\fa-solid-900.woff2
+wwwroot\FontAwsome\webfonts\fa-v4compatibility.woff2
+wwwroot\Images\blackpng.png
+wwwroot\Images\icon.jpg
+wwwroot\Images\iconpng.png
+wwwroot\Images\logo.png
+wwwroot\upload\182822cb-8cc5-4553-ae83-717b9b508409_Screenshot 2025-08-29 032821.png
+wwwroot\upload\1a15c0a2-4399-44a4-b8b1-16f5579abaab_design.jpg
+wwwroot\upload\1bc269c0-edac-4c01-a082-8312c7d473a6_design.jpg
+wwwroot\upload\2160a36e-4e28-44a1-8024-02bc91d58381_design.jpg
+wwwroot\upload\29af5c2a-e8b0-4551-a9ff-d3f9347ffdac_design.jpg
+wwwroot\upload\305d0d31-65d2-4083-af60-037dd6486c90_design.jpg
+wwwroot\upload\32b5bd1d-263a-489b-88bd-d0ce6e7bd366_design.jpg
+wwwroot\upload\3628e7cd-ff4c-4220-90ea-7cd46d9f52f1_Screenshot 2025-08-29 032821.png
+wwwroot\upload\3c5eedbf-3066-4379-a17a-2a9d7f146dbb_design.jpg
+wwwroot\upload\3c60229c-577a-4162-9fb6-46c70af64947_Screenshot 2025-08-29 032821.png
+wwwroot\upload\47644899-2f23-432b-ad9f-ef8ed81adaee_design.jpg
+wwwroot\upload\6731636a-6e42-4eca-9f37-dc2c5b45f7d4_Screenshot 2025-08-29 032821.png
+wwwroot\upload\7b0c9c1d-598a-4024-8bd9-620a86742bfa_Screenshot 2025-08-29 032821.png
+wwwroot\upload\8054a977-a421-4687-ab02-e5c4e9dd703c_Screenshot 2025-08-29 032821.png
+wwwroot\upload\90dc7f5f-3255-4d86-9352-0f6642723b23_design.jpg
+wwwroot\upload\913729e5-e3c7-4304-b1ee-2340c1e50814_Screenshot 2025-08-29 032821.png
+wwwroot\upload\9ba8208e-d88e-4f70-86f3-68357794ebb9_Screenshot 2025-08-29 032821.png
+wwwroot\upload\a7d9c4b9-f0da-4a01-8bac-21673c92559e_design.jpg
+wwwroot\upload\b67ade14-847b-4998-a64f-574a9fc0718c_Screenshot 2025-08-29 032821.png
+wwwroot\upload\bb55d041-c5db-4a80-8693-74d966e54c15_Screenshot 2025-08-29 032821.png
+wwwroot\upload\bd5629f4-558a-4dcd-84a5-d19587e4f027_design.jpg
+wwwroot\upload\bf0f9165-0144-4b35-8212-852c14eb7601_design.jpg
+wwwroot\upload\c0ff815e-ffd2-4963-ab55-073d79b91095_design.jpg
+wwwroot\upload\c2fece8c-de6b-4738-ac3a-2f3d67217293_Screenshot 2025-08-29 032821.png
+wwwroot\upload\c8927465-ee48-4927-951b-22cee489f1df_design.jpg
+wwwroot\upload\dd200a6e-71ea-4151-b81f-3b4b694f6c48_Screenshot 2025-08-29 032821.png
+wwwroot\upload\eae01542-aaea-4c91-b516-1cad61ea0ae6_Screenshot 2025-08-29 032821.png
+wwwroot\upload\f24e6ada-2069-4838-b8e1-a53e499d1be3_Screenshot 2025-08-29 032821.png
+wwwroot\upload\ff3b309d-9cec-4270-95e4-121ed2f5c673_design.jpg

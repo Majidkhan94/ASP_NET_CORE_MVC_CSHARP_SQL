@@ -1,0 +1,43 @@
+﻿@model VibePhone.Models.Slider
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "Delete Slider";
+}
+
+<div class="Dcontainer">
+    <h3>Are you sure you want to delete this?</h3>
+    <hr />
+    
+    <div class="mb-3">
+        <img src="~/UploadImages/@Model.Image" alt="Image" style="max-width:200px; height:auto;" />
+    </div>
+    
+    <div class="mb-3">
+        <strong>@Html.DisplayNameFor(model => model.Price):</strong>
+        <span class="text">@Html.DisplayFor(model => model.Price)</span>
+    </div>
+
+    <div class="mb-3">
+        <strong>@Html.DisplayNameFor(model => model.Title):</strong>
+        <span>@Html.DisplayFor(model => model.Title)</span>
+    </div>
+
+    <div class="mb-3">
+        <strong>@Html.DisplayNameFor(model => model.Description):</strong>
+        <span>@Html.DisplayFor(model => model.Description)</span>
+    </div>
+    
+    @* <div class="mb-3">
+        <strong>@Html.DisplayNameFor(model => model.Category):</strong>
+        <span>@Html.DisplayFor(model => model.Category.CategoryName)</span>
+    </div> *@
+
+    <form asp-action="SliderDeleteConfirmed" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-actions">
+            <input type="submit" value="Delete" class="delete-btn" />
+            <a asp-action="Index" asp-controller="Dashboard" class="btn btn-secondary">Back to Dashboard</a>
+        </div>
+    </form>
+</div>

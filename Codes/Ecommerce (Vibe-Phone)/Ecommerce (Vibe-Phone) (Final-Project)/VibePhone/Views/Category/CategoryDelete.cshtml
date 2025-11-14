@@ -1,0 +1,24 @@
+﻿@model VibePhone.Models.Category
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "Delete Category";
+}
+
+<div class="Dcontainer">
+    <h3>Are you sure you want to delete this?</h3>
+    <hr />
+
+    <div class="mb-3">
+        <strong>@Html.DisplayNameFor(model => model.CategoryName):</strong>
+        <span>@Html.DisplayFor(model => model.CategoryName)</span>
+    </div>
+
+    <form asp-action="CategoryDeleteConfirmed" method="post">
+        <input type="hidden" asp-for="CategoryId" />
+        <div class="form-actions">
+            <input type="submit" value="Delete" class="delete-btn" />
+            <a href="@($"{Url.Action("Index", "Dashboard")}#Categories")" class="btn btn-secondary">Back to Dashboard</a>
+        </div>
+    </form>
+</div>

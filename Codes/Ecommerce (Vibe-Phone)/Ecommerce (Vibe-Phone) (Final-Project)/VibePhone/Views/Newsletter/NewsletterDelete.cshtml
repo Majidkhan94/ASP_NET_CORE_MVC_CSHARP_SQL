@@ -1,0 +1,23 @@
+﻿@model VibePhone.Models.Newsletter
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "Delete Newsletter";
+}
+
+<div class="Dcontainer">
+    <h3>Are you sure you want to delete this?</h3>
+    <hr />
+
+    <div class="mb-3">
+        @Html.DisplayFor(model => model.Email)
+    </div>
+
+    <form asp-action="NewsletterDeleteConfirmed" method="post">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-actions">
+            <input type="submit" value="Delete" class="delete-btn" />
+            <a href="@($"{Url.Action("Index", "Dashboard")}#Newsletter")" class="btn btn-secondary">Back to Dashboard</a>
+        </div>
+    </form>
+</div>

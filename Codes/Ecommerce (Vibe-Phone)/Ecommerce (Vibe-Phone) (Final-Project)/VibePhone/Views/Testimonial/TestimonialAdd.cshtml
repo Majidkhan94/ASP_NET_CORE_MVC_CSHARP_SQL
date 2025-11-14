@@ -1,0 +1,41 @@
+﻿@model VibePhone.Models.Testimonial
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "Add Testimonial";
+}
+
+
+<div class="maincontainer">
+    <div class="container-card">
+        <h4>Add Testimonial</h4>
+        <hr>
+
+
+        <form asp-action="TestimonialAdd" method="post" enctype="multipart/form-data">
+            <div class="form-row">
+
+                <!-- Title -->
+                <div class="form-group">
+                    <input asp-for="Title" type="text" class="feature-field" placeholder="Enter Your Name">
+                </div>
+
+                <!-- Description -->
+                <div class="form-group full">
+                    <textarea asp-for="Description" class="feature-field" placeholder="Enter Description"></textarea>
+                </div>
+
+                <!-- Submit -->
+                <div class="form-group full">
+                    <div class="form-actions">
+                        <input type="submit" value="Create" class="btn btn-primary">
+                        <a href="@($"{Url.Action("Index", "Dashboard")}#Testimonials")" class="btn btn-secondary">Back to Dashboard</a>
+                        
+
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>

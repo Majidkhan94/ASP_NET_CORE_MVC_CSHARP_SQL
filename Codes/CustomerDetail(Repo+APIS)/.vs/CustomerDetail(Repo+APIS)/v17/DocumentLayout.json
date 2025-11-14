@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\New folder (2)\\ASP.NET_MVC_PROJECTS-master\\CustomerDetail(Repo\u002BAPIS)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F00C8D3-44EB-4248-A70A-B03CB9DC36DD}|CustomerDetail(Repo\u002BAPIS)\\CustomerDetail(Repo\u002BAPIS).csproj|c:\\users\\pc\\downloads\\new folder (2)\\asp.net_mvc_projects-master\\customerdetail(repo\u002Bapis)\\customerdetail(repo\u002Bapis)\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F00C8D3-44EB-4248-A70A-B03CB9DC36DD}|CustomerDetail(Repo\u002BAPIS)\\CustomerDetail(Repo\u002BAPIS).csproj|solutionrelative:customerdetail(repo\u002Bapis)\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F00C8D3-44EB-4248-A70A-B03CB9DC36DD}|CustomerDetail(Repo\u002BAPIS)\\CustomerDetail(Repo\u002BAPIS).csproj|c:\\users\\pc\\downloads\\new folder (2)\\asp.net_mvc_projects-master\\customerdetail(repo\u002Bapis)\\customerdetail(repo\u002Bapis)\\globalusingdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F00C8D3-44EB-4248-A70A-B03CB9DC36DD}|CustomerDetail(Repo\u002BAPIS)\\CustomerDetail(Repo\u002BAPIS).csproj|solutionrelative:customerdetail(repo\u002Bapis)\\globalusingdir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsingDir.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder (2)\\ASP.NET_MVC_PROJECTS-master\\CustomerDetail(Repo\u002BAPIS)\\CustomerDetail(Repo\u002BAPIS)\\GlobalUsingDir.cs",
+              "RelativeDocumentMoniker": "CustomerDetail(Repo\u002BAPIS)\\GlobalUsingDir.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder (2)\\ASP.NET_MVC_PROJECTS-master\\CustomerDetail(Repo\u002BAPIS)\\CustomerDetail(Repo\u002BAPIS)\\GlobalUsingDir.cs",
+              "RelativeToolTip": "CustomerDetail(Repo\u002BAPIS)\\GlobalUsingDir.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:54:31.65Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\New folder (2)\\ASP.NET_MVC_PROJECTS-master\\CustomerDetail(Repo\u002BAPIS)\\CustomerDetail(Repo\u002BAPIS)\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CustomerDetail(Repo\u002BAPIS)\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\New folder (2)\\ASP.NET_MVC_PROJECTS-master\\CustomerDetail(Repo\u002BAPIS)\\CustomerDetail(Repo\u002BAPIS)\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "CustomerDetail(Repo\u002BAPIS)\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-15T05:49:32.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

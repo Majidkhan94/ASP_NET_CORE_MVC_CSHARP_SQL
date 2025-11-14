@@ -1,0 +1,95 @@
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.staticwebassets.runtime.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.staticwebassets.endpoints.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.exe
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.deps.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.runtimeconfig.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.pdb
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.AssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\scopedcss\bundle\ShowStdDetails_Through_Repository.styles.css
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\refint\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.pdb
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.genruntimeconfig.cache
+C:\Users\PC\Desktop\New folder\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ref\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.staticwebassets.endpoints.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.staticwebassets.runtime.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.exe
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.deps.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.runtimeconfig.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.pdb
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.AssemblyInfo.cs
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.sourcelink.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\scopedcss\bundle\ShowStdDetails_Through_Repository.styles.css
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\refint\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.pdb
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.genruntimeconfig.cache
+C:\Users\PC\Desktop\Projects\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ref\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\appsettings.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.staticwebassets.endpoints.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.staticwebassets.runtime.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.exe
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.deps.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.runtimeconfig.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\bin\Debug\net8.0\ShowStdDetails_Through_Repository.pdb
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.AssemblyInfo.cs
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.RazorAssemblyInfo.cache
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.RazorAssemblyInfo.cs
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.sourcelink.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\scopedcss\bundle\ShowStdDetails_Through_Repository.styles.css
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\refint\ShowStdDetails_Through_Repository.dll
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.pdb
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ShowStdDetails_Through_Repository.genruntimeconfig.cache
+C:\Users\PC\Desktop\Majid Khan\Complete(Projects)\MVC (Completed-Projects)\ShowStdDetails_Through_Repository\ShowStdDetails_Through_Repository\obj\Debug\net8.0\ref\ShowStdDetails_Through_Repository.dll

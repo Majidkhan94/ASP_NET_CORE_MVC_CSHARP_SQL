@@ -1,0 +1,96 @@
+﻿@model BlogWebsite.CombinedViewModel
+
+
+@{
+    ViewData["Title"] = "Posts Page";
+}
+
+<!-- Header -->
+<header class="site-header">
+    <div class="container header-container">
+        <div class="logo">
+            <a asp-controller="Dashboard" asp-action="Index">
+                <img src="~/Images/blackpng.png" alt="Logo" />
+            </a>
+
+        </div>
+
+        <div class="login">
+            @if (User.Identity.IsAuthenticated)
+            {
+                <form asp-action="Logout" asp-controller="Admin" method="post" style="display:inline;">
+                    <button type="submit" class="login-btn">Logout</button>
+                </form>
+            }
+            else
+            {
+                <a asp-action="Index" asp-controller="Admin" class="login-btn">Login</a>
+            }
+        </div>
+
+    </div>
+</header>
+
+
+<!-- Main Content -->
+<main class="blog-container">
+    @foreach (var item in Model.AllPosts)
+    {
+        <div class="blog-post">
+
+            <!-- Post Image -->
+            @if (!string.IsNullOrEmpty(item.Image))
+            {
+                <img src="@item.Image" alt="Post Image" class="blog-image" />
+            }
+            else
+            {
+                <img src="/images/no-image.png" alt="No Image" class="blog-image" />
+            }
+
+            <!-- Post Title -->
+            <h2 class="blog-title">@item.Title</h2>
+            <!-- Post Category -->
+
+            <h2 class="blog-category">@item.Categories</h2>
+
+            <!-- Post Category -->
+            @* <span class="blog-category">@item.Categories</span> *@
+
+            <!-- Post Description -->
+            <p class="blog-description">@item.Description</p>
+
+           
+
+            <!-- Comment Section -->
+            <div class="blog-commentbox">
+                <form method="post" asp-action="AddComment" asp-controller="Home">
+                    <input type="hidden" name="postId" value="@item.ID" />
+                    <textarea name="content" placeholder="Write a comment..." class="comment-input" required></textarea>
+                    <button type="submit" class="comment-button">Add Comment</button>
+                </form>
+            </div>
+
+            <!-- Show Comments -->
+            @if (Model.Comments != null && Model.Comments.Any())
+            {
+                <div class="comments-list">
+                    @foreach (var c in Model.Comments.Where(x => x.PostId == item.ID))
+                    {
+                        <p><strong>@c.AuthorName</strong>: @c.Content</p>
+                    }
+                </div>
+            }
+
+
+
+
+        </div>
+    }
+</main>
+
+
+<!-- Footer -->
+<footer class="site-footer">
+    <p>&copyCopyright BlogNest - All Rights Reserved</p>
+</footer>

@@ -1,0 +1,25 @@
+﻿@model CRUD_PROJECT.Model.StdDetail
+
+<div class="details-container">
+    <h3 class="heading" style="text-align:center;">Student Details</h3>
+
+    <div class="details-item">
+        <div class="details-label">Name:</div>
+        <div class="details-value">@Model.Name</div>
+    </div>
+
+    <div class="details-item">
+        <div class="details-label">Address:</div>
+        <div class="details-value">@Model.Address</div>
+    </div>
+
+    <div class="details-item">
+        <div class="details-label">Phone:</div>
+        <div class="details-value">@Model.Phone</div>
+    </div>
+
+    <div class="details-actions">
+        <a asp-action="Update" asp-route-id="@Model.ID">Update</a>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>

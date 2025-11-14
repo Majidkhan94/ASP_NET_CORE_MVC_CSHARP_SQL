@@ -1,0 +1,36 @@
+﻿@model VibePhone.ViewModel.ViewDashboard
+@{
+    ViewData["Title"] = "Products";
+}
+
+<!-- Banner -->
+<div class="Banner" style="background-image: url('@Url.Content("~/Images/Newsletter.png")')">
+    <h1>Products</h1>
+</div>
+
+<!-- Products Sections -->
+<section class="HomeContainer Gallerybgcolor">
+    <div class="GalleryItems">
+        @foreach (var item in Model.Gallery.GroupBy(f => f.ImageGallery).Select(g => g.First()))
+        {
+            <div class="ItemContainer">
+                <div class="imagedetails">
+                    <a href="@Url.Action("SingleProduct", "Gallery", new { id = item.Id })">
+                        <img src="@Url.Content("~/UploadImages/" + item.ImageGallery)" alt="@item.ProductName" />
+                    </a>
+                    <div class="productinfo">
+                        <p class="productprice">$@item.Price</p>
+                        <h3 class="productname">@item.ProductName</h3>
+                        <p class="productcategory">@item.Category?.CategoryName</p>
+                        <p class="PButton">
+                            <a href="@Url.Action("SingleProduct", "Gallery", new { id = item.Id })">
+                                Buy Now
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</section>

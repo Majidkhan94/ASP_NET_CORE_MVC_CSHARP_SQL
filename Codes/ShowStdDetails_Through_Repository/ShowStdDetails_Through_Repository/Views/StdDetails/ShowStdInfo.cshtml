@@ -1,0 +1,26 @@
+﻿@{
+    Layout = @"~/Layout/_Layout.cshtml";
+}
+<div class="table-container">
+    <table class="custom-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Phone</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in Model)
+            {
+                <tr>
+                    <td>@student.ID</td>
+                    <td>@student.Name</td>
+                    <td>@student.Address</td>
+                    <td>@student.Phone</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

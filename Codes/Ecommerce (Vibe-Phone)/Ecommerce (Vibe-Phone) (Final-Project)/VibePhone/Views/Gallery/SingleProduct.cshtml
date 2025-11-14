@@ -1,0 +1,44 @@
+﻿@model VibePhone.ViewModel.ViewGallery
+@{
+    ViewData["Title"] = Model.ProductName ?? "Product Details";
+}
+
+
+
+
+
+
+
+<section class="single-product">
+    <div class="product-wrapper">
+        <!-- Left: Product Images -->
+        <div class="product-images">
+            <div class="main-image">
+                <img src="@Url.Content("~/UploadImages/" + Model.ImagePath)" alt="@Model.ProductName" />
+            </div>
+           
+        </div>
+
+        <!-- Right: Product Info -->
+        <div class="product-info">
+            <h2>@Model.ProductName</h2>
+            <p class="category">Category: @Model.Category?.CategoryName</p>
+            <p class="price">$@Model.Price</p>
+            <p class="description">@Model.Description</p>
+
+        
+
+           
+            <!-- Buttons -->
+            <div class="actions">
+                <a href="@Url.Action("Index", "Checkout", new { productName = Model.ProductName, price = Model.Price })" class="btn btn-primary">
+                    Buy Now
+                </a>
+                @* <a href="@Url.Action("Products", "Front")" class="btn btn-secondary">Back to Products</a> *@
+            </div>
+
+
+           
+        </div>
+    </div>
+</section>

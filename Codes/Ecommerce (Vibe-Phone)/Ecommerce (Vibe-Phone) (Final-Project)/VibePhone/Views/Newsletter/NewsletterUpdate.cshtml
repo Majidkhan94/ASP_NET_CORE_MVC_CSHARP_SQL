@@ -1,0 +1,33 @@
+﻿@model VibePhone.Models.Newsletter
+
+@{
+    Layout = "~/Views/Shared/Admin.cshtml";
+    ViewData["Title"] = "Update Newsletter";
+}
+
+<div class="maincontainer">
+    <div class="container-card">
+        <h4>Update Newsletter</h4>
+        <hr>
+
+        <form asp-action="NewsletterUpdate" method="post" enctype="multipart/form-data">
+            <div class="form-row">
+                <input type="hidden" asp-for="Id" />
+
+                <!-- Title -->
+                <div class="form-group">
+                    <input asp-for="Email" type="Email" class="feature-field" placeholder="Enter EmailAddress">
+                </div>
+
+                <!-- Submit -->
+                <div class="form-group full">
+                    <div class="form-actions">
+                        <input type="submit" value="Update" class="btn btn-primary">
+                        <a href="@($"{Url.Action("Index", "Dashboard")}#Newsletter")" class="btn btn-secondary">Back to Dashboard</a>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>

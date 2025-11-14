@@ -1,0 +1,39 @@
+﻿@model VibePhone.Models.Contactus
+
+@{
+    ViewData["Title"] = "Contactus";
+}
+
+<!-- Banner -->
+<div class="Banner" style="background-image: url('@Url.Content("~/Images/Newsletter.png")')">
+    <h1>Contactus</h1>
+</div>
+
+<!-- Contactus Sections -->
+
+<section class="ContactPage">
+
+    <!-- Left Side: Contact Info -->
+    <div class="contact-info">
+        <h2>Contact Us</h2>
+        <p><i class="fas fa-phone-alt"></i> +92 300 1234567</p>
+        <p><i class="fas fa-envelope"></i> VibePhone@gmail.com</p>
+        <p><i class="fas fa-map-marker-alt"></i> RWP, Pakistan</p>
+    </div>
+
+    <!-- Right Side: Contact Form -->
+    <div class="contact-form">
+        <h2>Send Us a Message</h2>
+
+        <form asp-controller="Dashboard" asp-action="AddContact" method="post">
+            <input asp-for="Name" type="text" class="feature-field" placeholder="Enter Your Name" required />
+            <input asp-for="Email" type="text" class="feature-field" placeholder="Enter Your Email" required />
+            <textarea asp-for="Message" class="feature-field" placeholder="Enter Your Message" required></textarea>
+            <button type="submit">Send Message</button>
+        </form>
+
+
+
+    </div>
+
+</section>

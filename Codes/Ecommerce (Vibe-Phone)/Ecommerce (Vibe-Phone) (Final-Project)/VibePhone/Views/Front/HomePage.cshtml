@@ -1,0 +1,167 @@
+﻿@model VibePhone.ViewModel.ViewDashboard
+@{
+    ViewData["Title"] = "Home";
+}                            
+
+                                                @* Slider Section *@
+
+<section class="SliderContainer">
+        @foreach (var item in Model.Slider.GroupBy(f => f.Title).Select(g => g.First()).Take(6))
+    {
+        <div class="CaroselSlider @(item == Model.Slider.First() ? "active" : "")" style="background-image:url('@Url.Content("~/UploadImages/" + item.Image)')">
+            <div class="SliderItems">
+                <p class="Price">$@item.Price</p>
+                <h1 class="Title">@item.Title</h1>
+                <p class="Description">@item.Description</p>
+                <div class="Sliderbutton">
+                    <a href="@Url.Action("SingleProduct", "Slider", new { id = item.Id })">
+                        Buy Now
+                    </a>
+                    @* <a asp-controller="Front" asp-action="Products">Buy Now</a> *@
+                    <a asp-controller="Front" asp-action="Products">All Products</a>
+                </div>
+            </div>
+        </div>
+    }
+
+    <div class="slider-dots">
+        @for (int i = 0; i < Model.Slider.Count; i++)
+        {
+            <span class="dot @(i == 0 ? "active" : "")"></span>
+        }
+    </div>
+</section>
+
+                                                <!-- Feature-Section -->
+
+    <section class="HomeContainer">
+        <div class="SectionHead">
+            <p>FEATURE PRODUCTS</p>
+        <a asp-controller="Front" asp-action="Products">SEE ALL PRODUCTS</a>
+        </div>
+
+        <div class="FeatureItems">
+
+        @foreach (var item in Model.Feature.GroupBy(f => f.Title).Select(g => g.First()).Take(12))
+        {
+            <div class="ItemContainer">
+                <div class="imagedetails">
+                    <a asp-controller="Front" asp-action="Products">
+                        <img src="@Url.Content("~/UploadImages/" + item.Image)" alt="@item.Title">
+                    </a>
+                </div>
+                <div class="Itemdetails">
+                    <p class="PPrice">$@item.Price</p>
+                    <p class="PName">@item.Title</p>
+                    @* <p class="PDescription">@item.Description</p> *@
+                    <p class="PButton">
+                        <a href="@Url.Action("SingleProduct", "Feature", new { id = item.Id })">
+                            Buy Now
+                        </a>
+                        @* <a href="#">Add to Cart</a> *@
+                    </p>
+                </div>
+            </div>
+        }
+    </div>
+    </section>
+
+                                                 <!-- Gallery-Section -->
+
+    <section class="HomeContainer Gallerybgcolor">
+        <div class="SectionHead">
+            <p>GALLERY</p>
+        <a asp-controller="Front" asp-action="Products">SEE ALL PRODUCTS</a>
+        </div>
+
+        <div class="GalleryItems">
+
+            <!-- Img1 -->
+        @foreach (var item in Model.Gallery.GroupBy(f => f.ImageGallery).Select(g => g.First()).Take(24))
+        {
+            <div class="ItemContainer">
+                <div class="imagedetails">
+                    <a asp-controller="Front" asp-action="Products">
+                        <img src="@Url.Content("~/UploadImages/" + item.ImageGallery)">
+                    </a>
+                </div>
+                <div class="Itemdetails">
+                    <p class="PPrice">$@item.Price</p>
+                    <p class="PName">@item.ProductName</p>
+                    @* <p class="PDescription">@item.Description</p> *@
+                    <p class="PButton">
+                        <a href="@Url.Action("SingleProduct", "Gallery", new { id = item.Id })">
+                            Buy Now
+                        </a>
+                    </p>
+                </div>
+            </div>
+        }
+    </section>
+
+                                                <!-- Why Choose US -->
+
+<section class="ChooseusContainer" style="background-image: url('@Url.Content("~/Images/ChooseUS.png")')">
+    <div class="SectionHead">
+        <p>WHY CHOOSE US</p>
+    </div>
+    <div class="Chooseus-Box-Container">
+        <div class="Chooseus-Box">
+            🚚 <p>Free Shipping</p>
+        </div>
+        <div class="Chooseus-Box">
+            🛡️ <p>1-Year Warranty</p>
+        </div>
+        <div class="Chooseus-Box">
+            🔄 <p>Easy Returns</p>
+        </div>
+        <div class="Chooseus-Box">
+            🔒 <p>Secure Payments</p>
+        </div>
+        <div class="Chooseus-Box">
+            📞 <p>24/7 Support</p>
+        </div>
+    </div>
+
+</section>
+
+
+    <!-- Testimonials -->
+
+    <section class="TestimonialsContainer">
+    
+        <div class="SectionHead"><p>TESTIMONIALS</p></div>
+        <div class="Testimonials-Box-Container">
+
+        @foreach (var item in Model.Testimonial.GroupBy(f => f.Title).Select(g => g.First()).Take(6))
+        {
+            <div class="Testimonials-Box">
+                <img src="@Url.Content("~/Images/DefaultImage.png")">
+                <p class="tName">- @item.Title</p>
+                <p class="tDescription">@item.Description</p>
+            </div>
+        }
+
+
+        </div>
+    </section>
+
+    <!-- NewsLetter -->
+
+<section class="NewsLetterContainer" style="background-image: url('@Url.Content("~/Images/ChooseUS.png")')">
+    <div class="SectionHead">
+        <p>NEWS LETTER</p>
+    </div>
+
+    <div class="newsletter-content">
+        <h2>Subscribe To Our News Letter</h2>
+        <p>You never miss our latest updates, offers, and product launches.</p>
+
+        <form asp-controller="Dashboard" asp-action="NewsletterAdd" method="post" class="newsletter-form">
+            <input asp-for="Newsletters.Email" type="email" class="feature-field" placeholder="Enter Your Email" required>
+            <button type="submit">SUBSCRIBE</button>
+        </form>
+
+    </div>
+</section>
+

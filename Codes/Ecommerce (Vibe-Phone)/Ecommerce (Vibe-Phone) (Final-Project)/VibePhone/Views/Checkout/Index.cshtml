@@ -1,0 +1,39 @@
+﻿@model VibePhone.Models.Checkout
+
+<div class="checkout-form-wrapper">
+    <h2>Checkout</h2>
+
+    @using (Html.BeginForm())
+    {
+        <div class="checkout-field">
+            @Html.LabelFor(m => m.CustomerName)
+            @Html.TextBoxFor(m => m.CustomerName, new { @class = "checkout-input" })
+            @Html.ValidationMessageFor(m => m.CustomerName, "", new { @class = "checkout-validation" })
+        </div>
+
+        <div class="checkout-field">
+            @Html.LabelFor(m => m.Email)
+            @Html.TextBoxFor(m => m.Email, new { @class = "checkout-input" })
+            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "checkout-validation" })
+        </div>
+
+        <div class="checkout-field">
+            @Html.LabelFor(m => m.Address)
+            @Html.TextBoxFor(m => m.Address, new { @class = "checkout-input" })
+            @Html.ValidationMessageFor(m => m.Address, "", new { @class = "checkout-validation" })
+        </div>
+
+        <div class="checkout-field">
+            @Html.LabelFor(m => m.Phone)
+            @Html.TextBoxFor(m => m.Phone, new { @class = "checkout-input" })
+            @Html.ValidationMessageFor(m => m.Phone, "", new { @class = "checkout-validation" })
+        </div>
+
+        <div class="checkout-product-info">
+            <strong>Product:</strong> @Model.ProductName <br />
+            <strong>Price:</strong> @Model.Price
+        </div>
+
+        <button type="submit" class="checkout-submit">Place Order</button>
+    }
+</div>

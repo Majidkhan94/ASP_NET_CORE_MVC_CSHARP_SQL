@@ -1,0 +1,57 @@
+﻿@model VibePhone.ViewModel.ViewDashboard
+
+@{
+    ViewData["Title"] = "Blog";
+}
+<!-- Banner -->
+<div class="Banner" style="background-image: url('@Url.Content("~/Images/Newsletter.png")')">
+    <h1>Blog</h1>
+</div>
+
+<!-- blog Sections -->
+<section class="BlogPage">
+
+    <!-- Left Side: Blog Post -->
+    <div class="postleft">
+        @if (Model.Blog != null && Model.Blog.Any())
+        {
+            foreach (var item in Model.Blog)
+            {
+                <div class="blog-main">
+                    <div class="blog-card">
+                        <img src="@Url.Content("~/UploadImages/" + item.Image)" alt="@item.Title" class="blog-img" />
+                        <p class="blog-category">@item.Category.CategoryName</p>
+                        <h2 class="blog-title">@item.Title</h2>
+                        <p class="blog-desc">@item.Description</p>
+                        <a href="#" class="blog-btn">Read More</a>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p>No blogs available.</p>
+        }
+    </div>
+
+    <!-- Right Side: Latest Blogs -->
+    <aside class="blog-sidebar">
+        <h3>Latest Blogs</h3>
+        <ul class="latest-list">
+            @if (Model.Blog != null && Model.Blog.Any())
+            {
+                foreach (var item in Model.Blog)
+                {
+                    <li>
+                        <a href="#">@item.Title</a>
+                    </li>
+                }
+            }
+            else
+            {
+                <li>No latest blogs found.</li>
+            }
+        </ul>
+    </aside>
+
+</section>

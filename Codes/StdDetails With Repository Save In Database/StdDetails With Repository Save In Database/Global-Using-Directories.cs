@@ -1,0 +1,8 @@
+﻿global using StdDetails_With_Repository_Save_In_Database.Model;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.SqlServer;
+global using Microsoft.EntityFrameworkCore.Metadata.Internal;
+global using System.ComponentModel.DataAnnotations;
+global using StdDetails_With_Repository_Save_In_Database.Data;
+global using Microsoft.AspNetCore.Mvc;
+global using StdDetails_With_Repository_Save_In_Database.Repository;

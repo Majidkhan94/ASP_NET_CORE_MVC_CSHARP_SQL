@@ -1,0 +1,6 @@
+@CustomerDetail_Repo_APIS__HostAddress = http://localhost:5001
+
+GET {{CustomerDetail_Repo_APIS__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

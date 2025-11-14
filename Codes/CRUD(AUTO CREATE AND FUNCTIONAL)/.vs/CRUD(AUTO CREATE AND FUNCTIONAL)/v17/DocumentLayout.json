@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(auto create and functional)\\crud(auto create and functional)\\controller\\customermodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|solutionrelative:crud(auto create and functional)\\controller\\customermodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(auto create and functional)\\crud(auto create and functional)\\views\\customermodels\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|solutionrelative:crud(auto create and functional)\\views\\customermodels\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(auto create and functional)\\crud(auto create and functional)\\views\\customermodels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|solutionrelative:crud(auto create and functional)\\views\\customermodels\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(auto create and functional)\\crud(auto create and functional)\\views\\customermodels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|solutionrelative:crud(auto create and functional)\\views\\customermodels\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(auto create and functional)\\crud(auto create and functional)\\views\\customermodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|solutionrelative:crud(auto create and functional)\\views\\customermodels\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\crud(auto create and functional)\\crud(auto create and functional)\\custom global using directories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C00340-48E2-4CCD-BD6C-415FF25AC9AD}|CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL).csproj|solutionrelative:crud(auto create and functional)\\custom global using directories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Custom Global Using Directories.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Custom Global Using Directories.cs",
+              "RelativeDocumentMoniker": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Custom Global Using Directories.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Custom Global Using Directories.cs",
+              "RelativeToolTip": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Custom Global Using Directories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:12:36.592Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Controller\\CustomerModelsController.cs",
+              "RelativeDocumentMoniker": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Controller\\CustomerModelsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Controller\\CustomerModelsController.cs",
+              "RelativeToolTip": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Controller\\CustomerModelsController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:59:32.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Update.cshtml",
+              "RelativeDocumentMoniker": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Update.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Update.cshtml",
+              "RelativeToolTip": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:52:42.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Details.cshtml",
+              "RelativeToolTip": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:50:41.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Index.cshtml",
+              "RelativeToolTip": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:48:56.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Delete.cshtml",
+              "RelativeToolTip": "CRUD(AUTO CREATE AND FUNCTIONAL)\\Views\\CustomerModels\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T07:48:44.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

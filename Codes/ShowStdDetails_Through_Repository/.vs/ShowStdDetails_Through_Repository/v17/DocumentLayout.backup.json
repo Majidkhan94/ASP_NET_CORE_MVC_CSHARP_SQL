@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\layout\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\layout\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\controller\\stddetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\controller\\stddetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\data\\stddetailsmodeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\data\\stddetailsmodeldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\repository\\stddetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\repository\\stddetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\repository\\istddetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\repository\\istddetailsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\views\\stddetails\\showstdinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\views\\stddetails\\showstdinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\model\\stddetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\model\\stddetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|c:\\users\\pc\\desktop\\majid khan\\complete(projects)\\mvc (completed-projects)\\showstddetails_through_repository\\showstddetails_through_repository\\global-usingdir-templete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8E0E85D-0765-41C5-A6A2-51AE9594C6CC}|ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository.csproj|solutionrelative:showstddetails_through_repository\\global-usingdir-templete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Global-UsingDir-Templete.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Global-UsingDir-Templete.cs",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\Global-UsingDir-Templete.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Global-UsingDir-Templete.cs",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\Global-UsingDir-Templete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:27:27.407Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\appsettings.json",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\appsettings.json",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-04T06:39:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StdDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Controller\\StdDetailsController.cs",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\Controller\\StdDetailsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Controller\\StdDetailsController.cs",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\Controller\\StdDetailsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:52:05.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Program.cs",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Program.cs",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T13:01:28.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\wwwroot\\Css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\wwwroot\\Css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\wwwroot\\Css\\StyleSheet.css",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\wwwroot\\Css\\StyleSheet.css",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-25T12:57:33.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Layout\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\Layout\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Layout\\_Layout.cshtml",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\Layout\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T12:56:54.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StdDetailsModelData.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Data\\StdDetailsModelData.cs",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\Data\\StdDetailsModelData.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Data\\StdDetailsModelData.cs",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\Data\\StdDetailsModelData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:39:48.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStdDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Repository\\IStdDetailsRepo.cs",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\Repository\\IStdDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Repository\\IStdDetailsRepo.cs",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\Repository\\IStdDetailsRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:49:17.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StdDetailsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Repository\\StdDetailsRepo.cs",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\Repository\\StdDetailsRepo.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Repository\\StdDetailsRepo.cs",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\Repository\\StdDetailsRepo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:38:43.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StdDetailsModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Model\\StdDetailsModel.cs",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\Model\\StdDetailsModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Model\\StdDetailsModel.cs",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\Model\\StdDetailsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:42:45.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowStdInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Views\\StdDetails\\ShowStdInfo.cshtml",
+              "RelativeDocumentMoniker": "ShowStdDetails_Through_Repository\\Views\\StdDetails\\ShowStdInfo.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Majid Khan\\Complete(Projects)\\MVC (Completed-Projects)\\ShowStdDetails_Through_Repository\\ShowStdDetails_Through_Repository\\Views\\StdDetails\\ShowStdInfo.cshtml",
+              "RelativeToolTip": "ShowStdDetails_Through_Repository\\Views\\StdDetails\\ShowStdInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T12:56:17.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

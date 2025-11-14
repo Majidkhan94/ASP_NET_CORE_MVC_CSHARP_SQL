@@ -1,0 +1,26 @@
+﻿@model StudentDetailsThroughAPIS.Models.StudentDetail
+
+@{
+    ViewData["Title"] = "Delete Student Info";
+}
+<div class="DeleteContainer">
+    <h1>Delete Student Info</h1>
+
+    <h3>Are you sure you want to delete this?</h3>
+
+    <div class="DeleteDetails">
+        <p><strong>Name:</strong> @Model.Name</p>
+        <p><strong>Address:</strong> @Model.Address</p>
+        <p><strong>Phone:</strong> @Model.Phone</p>
+        <p><strong>Gender:</strong> @Model.Gender</p>
+    </div>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Delete" class="btn btn-danger" />
+        <span> | </span>
+        <div class="Backbtn" style="display:inline-block;">
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </form>
+</div>

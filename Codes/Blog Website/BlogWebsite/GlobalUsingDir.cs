@@ -1,0 +1,17 @@
+﻿global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Hosting;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.SqlServer;
+global using BlogWebsite.Model;
+global using BlogWebsite.DataContext;
+global using BlogWebsite.Repository;
+global using BlogWebsite.Controllers;
+global using BlogWebsite.ViewModel;
+global using System.IO;
+global using Microsoft.AspNetCore.Hosting;
+global using Microsoft.AspNetCore.Http;
+global using BlogWebsite.ViewModel;
+global using System.Security.Claims;
+global using Microsoft.AspNetCore.Authentication;
+global using Microsoft.AspNetCore.Authentication.Cookies;
