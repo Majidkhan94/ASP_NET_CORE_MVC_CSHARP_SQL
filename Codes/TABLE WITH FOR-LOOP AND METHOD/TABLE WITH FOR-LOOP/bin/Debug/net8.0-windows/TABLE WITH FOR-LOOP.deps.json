@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TABLE WITH FOR-LOOP/1.0.0": {
+        "runtime": {
+          "TABLE WITH FOR-LOOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TABLE WITH FOR-LOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
